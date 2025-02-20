@@ -1,9 +1,9 @@
 Навигационное меню
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ei6oi813spq6siut?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-router-menu)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-router-menu/)
 
 Необходимо реализовать меню для сайта гоночного такси с пунктами «Главная», «Дрифт-такси», «Time Attack» и «Forza Karting». При переходе на страницу соответствующий пункт меню должен подсветиться:
 
